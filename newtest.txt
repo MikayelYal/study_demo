@@ -1,4 +1,0 @@
-In this video, we will learn how to undo any changes made with Git. 
-
-In order to undo any changes, we first need to understand, at which level they are located,
-because this affects which options Git can offer us.
