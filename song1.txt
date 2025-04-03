@@ -1,0 +1,17 @@
+sword and spear
+wall of shields
+standing strong
+on this their choosen battlefield
+
+Form the lines
+Shield by shield
+
+--------------------------
+For that, Git has a special command, which is git checkout. 
+----------------------
+Let's begin with the simplest option. 
+****************
+We have some changes that are pr
+************************************
+
+A there's a small commit F branching out, and it has its own structure, it can move forward
