@@ -15,3 +15,6 @@ We have some changes that are pr
 ************************************
 
 A there's a small commit F branching out, and it has its own structure, it can move forward
+
+++++++++++++++++++++++++++++++++++
+that we need to do is create a branch. To create a new branch and immediately switch to it
